@@ -24,6 +24,7 @@ Dataset yang digunakan dalam analisis ini adalah *all_data.csv*. Pastikan file t
 - Visualisasi *produk dan kategori terlaris*.
 - Analisis *pola pembelian berdasarkan waktu*.
 - Filter data berdasarkan *rentang tanggal transaksi*.
+- Terjemahan Brazil to English "kategori produk"
 
 ## 📂 Struktur Direktori
 ```
