@@ -26,23 +26,21 @@ Dataset yang digunakan dalam analisis ini adalah *all_data.csv*. Pastikan file t
 - Filter data berdasarkan *rentang tanggal transaksi*.
 
 ## 📂 Struktur Direktori
-
+```
 submission/
 ├── dashboard/
 │   ├── all_data.csv
 │   └── dashboard.py
 ├── E-commerce-public-dataset/
 │   ├── customers_dataset.csv
-│   ├── geolocation_dataset.csv
 │   ├── order_items_dataset.csv
 │   ├── orders_dataset.csv
 │   ├── products_dataset.csv
 │   └── product_category_name_translation.csv
-├── notebook.ipynb
 ├── README.md
 ├── requirements.txt
 └── url.txt
-
+```
 
 ## 📝 Lisensi
 Proyek ini dibuat untuk keperluan edukasi dan tidak untuk penggunaan komersial.
